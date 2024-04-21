@@ -11,7 +11,6 @@
 <br />
  <p align="left">
 ## 🤝 Connect with me:
-<p align="left">
 <br />
 <a href="https://www.facebook.com/profile.php?id=100012706116123" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%23000?style=social&logo=Facebook&logoColor=%230866FF"/></a>
 <a href="https://www.linkedin.com/in/mohamed-adel-226611286/" title="LinkedIn"><img src="https://img.shields.io/badge/linked%20in-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/></a> 
@@ -22,7 +21,6 @@
 <br />
  <p align="left">
 ## 💼 Technical Skills
-  <p align="left">
 <br>
   <a href="https://www.w3.org/TR/html5/"title="HTML5"><img src="https://img.shields.io/badge/HTML5-%23000?style=social&logo=html5&logoColor=%23E34F26" alt="HTML5"></a>
     <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/CSS3-%23000?style=social&logo=css3&logoColor=%231572B6"alt="CSS3"></a>
@@ -33,7 +31,6 @@
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23000?style=social&logo=GitHub&logoColor=%23181717" alt="GitHub"></a></p>
 <!--   <a href="https://www.typescriptlang.org/" title="Type Script"><img src="https://img.shields.io/badge/TypeScript-%23000?style=social&logo=typescript&logoColor=%233178C6" alt="typescript"/></a> -->
   ## 🛠 & I have Backdrop in 
-  <p align="left">
   <br />
   <a href="https://nodejs.org" title="NodeJS"><img src="https://img.shields.io/badge/Node%20JS-%23000?style=social&logo=Node.js&logoColor=%23339933"alt="nodejs" /></a>
     <a href="https://expressjs.com"title="Express"><img src="https://img.shields.io/badge/Express-%23fff?style=social&logo=express&logoColor=%23000000" alt="express"/></a>
