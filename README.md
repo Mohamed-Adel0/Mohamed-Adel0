@@ -10,6 +10,8 @@
 -🏫 :University: I am a `graduate of the Department of Management Information Systems,` from the Faculty of Commerce at Madina Academy
 
 <br />
+ <p align="left">
+ <p align="left">
 ## 🤝 Connect with me:
 
 <br />
