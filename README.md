@@ -9,8 +9,9 @@
 <!-- - 🌱 I’m currently studying `BackEnd Node.js` -->
 - :University: I am a `graduate of the Department of Management Information Systems,` from the Faculty of Commerce at Madina Academy
 
-<br>
+<br />
 ## 🤝 Connect with me:
+<br />
 <a href="https://www.facebook.com/profile.php?id=100012706116123" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%23000?style=social&logo=Facebook&logoColor=%230866FF"/></a>
 <a href="https://www.linkedin.com/in/mohamed-adel-226611286/" title="LinkedIn"><img src="https://img.shields.io/badge/linked%20in-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/></a>  
 <p align="center">
