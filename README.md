@@ -27,7 +27,7 @@
   <a href="https://reactjs.org/"title="React"><img src="https://img.shields.io/badge/React-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="react"/></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23000?style=social&logo=git&logoColor=%23F05032" alt="Git"></a>
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23000?style=social&logo=GitHub&logoColor=%23181717" alt="GitHub"></a></p>
-  <a href="https://www.typescriptlang.org/" title="Type Script"><img src="https://img.shields.io/badge/TypeScript-%23000?style=social&logo=typescript&logoColor=%233178C6" alt="typescript"/></a>
+<!--   <a href="https://www.typescriptlang.org/" title="Type Script"><img src="https://img.shields.io/badge/TypeScript-%23000?style=social&logo=typescript&logoColor=%233178C6" alt="typescript"/></a> -->
   ## 🛠 & I have Backdrop in 
   <br />
   <a href="https://nodejs.org" title="NodeJS"><img src="https://img.shields.io/badge/Node%20JS-%23000?style=social&logo=Node.js&logoColor=%23339933"alt="nodejs" /></a>
