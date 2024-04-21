@@ -30,6 +30,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23fff?style=social&logo=JavaScript&logoColor=%23F7DF1E"alt="javascript"/</a>
  <a href="https://getbootstrap.com"title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23fff?style=social&logo=bootstrap&logoColor=%237952B3" alt="bootstrap"/></a>
   <a href="https://reactjs.org/"title="React"><img src="https://img.shields.io/badge/React-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="react"/></a>
+  <a href="https://redux-toolkit.js.org/"title="React"><img src="https://img.shields.io/badge/Redux Toolkit-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="react"/></a>
   <a href="https://www.npmjs.com/package/json-server"title="json"><img src="https://img.shields.io/badge/JsonServer-%23fff?style=social&logo=json&logoColor=%222222"alt="json"/</a>
   <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23000?style=social&logo=git&logoColor=%23F05032" alt="Git"></a>
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23000?style=social&logo=GitHub&logoColor=%23181717" alt="GitHub"></a></p>
