@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/mohamed-adel-226611286/" title="LinkedIn"><img src="https://img.shields.io/badge/linked%20in-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/></a>  
 <p align="left">
 <a  href="mailto:howare7amo99@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-%23000?style=social&logo=Gmail&logoColor=%23EA4335"/></a>  
-</p>
+<br />
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 <br />
 ## 💼 Technical Skills
