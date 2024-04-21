@@ -18,6 +18,7 @@
 <a  href="mailto:howare7amo99@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-%23000?style=social&logo=Gmail&logoColor=%23EA4335"/></a>  
 </p>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+<br />
 ## 💼 Technical Skills
 <br>
   <a href="https://www.w3.org/TR/html5/"title="HTML5"><img src="https://img.shields.io/badge/HTML5-%23000?style=social&logo=html5&logoColor=%23E34F26" alt="HTML5"></a>
