@@ -3,7 +3,7 @@
 
 <p>I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
 </p>
-<br />
+</p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 <br>
 <!-- - 🌱 I’m currently studying `BackEnd Node.js` -->
