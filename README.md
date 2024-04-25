@@ -42,3 +42,8 @@
   <a href="https://www.mongodb.com/"title="Mongodb"><img src="https://img.shields.io/badge/MongoDB-%23000?style=social&logo=mongodb&logoColor=%2347A248"alt="mongodb"/></a>
   <a href="https://postman.com"title="Postman"><img src="https://img.shields.io/badge/postman-%23000?style=social&logo=postman&logoColor=%23FF6C37" alt="postman"/></a>
   <!-- <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23000?style=social&logo=Visual%20Studio%20Code&logoColor=%23007ACC"alt="Visual Studio Code"></a> -->
+    <br />
+  **👀 Profile Visitor's:**
+
+![Visitor Count](https://profile-counter.glitch.me/{Shridhar-dev}/count.svg)
+<br>
