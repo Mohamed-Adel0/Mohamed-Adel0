@@ -49,6 +49,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Mohamed-Adel0}/count.svg)
 <br>
 
-<!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="4a6a1cb30c7a85c56e7bef9896e26d16|5|external|1|#0099cc|#f5f5f5|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-<!-- Badge Code End Here -->
+
