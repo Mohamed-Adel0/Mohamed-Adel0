@@ -25,6 +25,7 @@
 ## 💼 Technical Skills
 <br>
   <a href="https://reactjs.org/"title="React"><img src="https://img.shields.io/badge/React Js-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="react"/></a>
+  <a href="https://nextjs.org//"title="Next"><img src="https://img.shields.io/badge/Next Js-%23000?style=social&logo=next&logoColor=%2361DAFB"alt="next"/></a>
   <a href="https://redux-toolkit.js.org/"title="React"><img src="https://img.shields.io/badge/Redux Toolkit-%23000?style=social&logo=redux&logoColor=%FFFFFF"alt="react"/></a>
   <a href="https://www.npmjs.com/package/json-server"title="json"><img src="https://img.shields.io/badge/JSON Server-%23fff?style=social&logo=json&logoColor=%222222"alt="json"/</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23fff?style=social&logo=JavaScript&logoColor=%23F7DF1E"alt="javascript"/</a>
