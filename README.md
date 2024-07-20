@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
-<h3 align="center">I'm a Front-End Web Developer | React JS 💻</h3>
+<h3 align="center">I'm a Front-End Web Developer | React JS | Next Js 💻</h3>
 
 <p>I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
  
